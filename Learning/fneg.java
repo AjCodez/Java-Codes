@@ -1,6 +1,6 @@
 class fneg
 {
-	public static void main(String args[])
+	public static void main(String[] args)
 	{
 		final double pi=3.14;
 		pi=3.15;
